@@ -1,2 +1,2 @@
 # ethiopic-mmocr
-after cloning, unzip
+cloning and unzip
